@@ -80,7 +80,7 @@ author:
   name             : "Emil Garipov"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " "
-  location         : " "
+  location         : 
   email            :
   uri              :
   bitbucket        :
