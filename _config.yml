@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Emil Garipov"
 description              : "Сайт о моем пути в непрерывном обучении."
 url                      : "https://emilgaripov.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog"
 repository               : "emilgaripov/emilgaripov.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
