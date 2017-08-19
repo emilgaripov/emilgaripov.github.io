@@ -1,12 +1,16 @@
-# example navigation
-# main links links
+# main links
 main:
-  - title: "About"
-    url: /about/
   - title: "Blog"
     url: /blog/
-  - title: "Presentations"
-    url: /presentations/
-  - title: "CCIE in a year"
-    url: /CCIE/
-
+  - title: "Мои проекты"
+    url: /projects/
+  - title: "To Read 2017"
+    url: /to-read-2017/
+  - title: "About"
+    url: /about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  #- title: "Sitemap"
+  #  url: /sitemap/
