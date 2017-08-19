@@ -4,8 +4,6 @@ main:
     url: /blog/
   - title: "Presentations"
     url: /presentations/
-  - title: "CCIE in a year"
-    url: /CCIE/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
