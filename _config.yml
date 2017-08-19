@@ -7,20 +7,20 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Time To Learn"
+title                    : "The Way to Lifelong Learning"
 title_separator          : "-"
-name                     : "Наташа Самойленко"
-description              : " "
-url                      : "https://natenka.github.io"
-baseurl                  :
-repository               : "natenka/natenka.github.io"
+name                     : "Emil Garipov"
+description              : "Сайт о моем пути в непрерывном обучении."
+url                      : "https://emilgaripov.github.io"
+baseurl                  : #"/blog"
+repository               : "emilgaripov/emilgaripov.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            : "timetolearn" #https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "my_way_to_lifelong_learning" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -35,7 +35,7 @@ staticman:
   filename               : comment-{@timestamp}
   format                 : "yml"
   moderation             : true
-  path                   : "docs/_data/comments/{options.slug}"
+  path                   : "docs/_data/comments/{options.slug}" # "/_data/comments/{options.slug}" (default)
   requiredFields         : ['name', 'email', 'message']
   transforms:
     email                : "md5"
@@ -70,31 +70,31 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-universal"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-87357288-1"
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "Наташа Самойленко"
+  name             : "Emil Garipov"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " "
-  location         :
-  email            : "nataliya.samoylenko@gmail.com"
+  location         : 
+  email            : "emil.garipov@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "samoylenko.natasha"
+  facebook         : "emil.garipov"
   foursquare       :
-  github           : "natenka"
+  github           : "emilgaripov"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : ""
   lastfm           :
-  linkedin         :
+  linkedin         : "garipov"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
@@ -104,9 +104,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
-  goodreads        : "59424483-natasha-samoylenko"
-  saythanks        : "natenka"
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
 # Reading Files
@@ -243,13 +241,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: # true
       share: true
       related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
