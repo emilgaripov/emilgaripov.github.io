@@ -2,6 +2,7 @@
 title: "Presentations"
 layout: archive
 permalink: /presentations/
+author_profile: true
 ---
 
 A variety of common markup showing how the theme styles them.
