@@ -81,7 +81,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : " "
   location         : 
-  email            :"emil.garipov@gmail.com"
+  email            : "emil.garipov@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
