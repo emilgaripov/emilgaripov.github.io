@@ -2,10 +2,10 @@
 main:
   - title: "Blog"
     url: /blog/
-  - title: "Мои проекты"
-    url: /projects/
-  - title: "To Read 2017"
-    url: /to-read-2017/
+  - title: "Presentations"
+    url: /presentations/
+  - title: "CCIE in a year"
+    url: /CCIE/
   - title: "About"
     url: /about/
   # - title: "Sample Posts"
