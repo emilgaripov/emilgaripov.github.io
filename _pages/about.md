@@ -1,7 +1,7 @@
 ---
-layout: splash
+layout: archive
 title: "About"
-permalink: /about/
+permalink: /about
 ---
 
 Привет всем! 
