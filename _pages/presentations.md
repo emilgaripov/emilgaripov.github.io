@@ -215,4 +215,5 @@ This allows you to denote <var>variables</var>.
 
 {% for post in site.pages %}
 {% include archive-single.html %}
+{% include paginator.html %}
 {% endfor %}
