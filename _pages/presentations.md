@@ -1,7 +1,7 @@
 ---
-title: "Archive Layout with Content"
+title: "Presentations"
 layout: archive
-permalink: /archive-layout-with-content/
+permalink: /presentations/
 ---
 
 A variety of common markup showing how the theme styles them.
