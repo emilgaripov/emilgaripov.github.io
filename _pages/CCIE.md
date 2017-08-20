@@ -1,11 +1,10 @@
 ---
 layout: archive
-permalink: /CCIE/
 title: Проект CCIE за год
+permalink: /CCIE/
+author_profile: true
 comments: true
 share: true
-author_profile: true
-
 ---
 
 __Проект CCIE за год - это курс и книга, которые написала Наташа Самойленко - это я :)

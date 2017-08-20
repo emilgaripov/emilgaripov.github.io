@@ -1,10 +1,10 @@
 ---
 layout: archive
-permalink: /presentations/
 title: Presentations
+permalink: /presentations/
+author_profile: true
 comments: true
 share: true
-author_profile: true
 ---
 
 ## Python для сетевых инженеров
