@@ -4,6 +4,7 @@ permalink: /workbook/
 title: Workbook
 comments: true
 share: true
+author_profile: true
 ---
 
 __Python для сетевых инженеров (PyNEng)__ - это курс и книга, которые написала Наташа Самойленко - это я :)
