@@ -1,59 +1,51 @@
 ---
 layout: archive
-title: Presentations
 permalink: /presentations/
 author_profile: true
+title: Presentations
 comments: true
 share: true
 ---
 
-## Презентации тем и отдельных курсов.
+Презентации по отдельным курсам и вебинарам  - это курс и книга, которые написала Наташа Самойленко - это я :)
 
-[Python для сетевых инженеров](https://natenka.github.io/pyneng/) - это:
 
-* [Книга](https://www.gitbook.com/book/natenka/pyneng/details)
-* [Сообщество в Slack](https://pyneng-slack.herokuapp.com/)
-* [Подборка ресурсов](https://natenka.github.io/pyneng-resources/)
-* [Онлайн курс](/pyneng-online/)
+Если в двух словах, то это такой "CCNA" по питону.
+С одной стороны, курс достаточно базовый, чтобы его мог одолеть любой желающий,
+с другой стороны, в курсе рассматриваются все основные темы, которые позволят дальше расти самостоятельно.
 
-## Ansible для сетевых инженеров
 
-Курс ["Ansible для сетевых инженеров"](https://www.gitbook.com/book/natenka/ansible-dlya-setevih-inzhenerov/details) ещё в процесе написания.
+Я написала этот курс потому что считаю, что программирование это важный, полезный и интересный навык,
+который может очень помочь в работе сетевого инженера.
 
-Более короткую версию курса "Ansible для сетевых инженеров" я читаю офлайн в [УЦ "Сетевые технологии"](http://nt.ua/education/coptrainings/Pages/NT-CMforHW.aspx) (Киев) и [УЦ FastLane](http://www.flane.com.ua/course/ot-naa) (Киев).
+> PyNEng - можно расшифровывать двумя вариантами:
+> 
+> - Python for Network Engineers
+> - Python for Network Engineers next generation :)
 
-## Сетевые дни
+### Книга
 
-Сетевые дни - это серия однодневных тренингов по Cisco.
+Книга опубликована на GitBook: [Python для сетевых инженеров](https://www.gitbook.com/book/natenka/pyneng/details).
 
-Эти курсы я уже не читаю, но на [slideshare](http://www.slideshare.net/NatashaSamoylenko/presentations) выложены презентации по этим курсам.
+На GitBook книгу можно читать онлайн или скачать в одном из форматов:
+epub, pdf, mobi.
 
-На GitHub [презентации выложены в формате PDF и ODP](https://github.com/natenka/NetDay).
-Вы можете использовать их по своему усмотрению.
 
-Материалы курсов на slideshare:
-* [Настройка OSPF на маршрутизаторах Cisco](http://www.slideshare.net/NatashaSamoylenko/ospf-44777742)
-* [Резервирование Интернет-каналов без использования BGP](http://www.slideshare.net/NatashaSamoylenko/bgp-44824492)
-* [Использование BGP для резервирования Интернет-каналов](http://www.slideshare.net/NatashaSamoylenko/bgp-ver2)
-* [Настройка Site-to-Site VPN на маршрутизаторах Cisco](http://www.slideshare.net/NatashaSamoylenko/sitetosite-vpn-cisco)
-* [Настройка DMVPN на маршрутизаторах Cisco](http://www.slideshare.net/NatashaSamoylenko/dmvpn-cisco)
-* [Настройка EasyVPN на маршрутизаторах Cisco](http://www.slideshare.net/NatashaSamoylenko/easyvpn-cisco)
-* [Настройка FlexVPN на маршрутизаторах Cisco](http://www.slideshare.net/NatashaSamoylenko/flexvpn-cisco)
+### Статьи
 
-## Статьи
+На сайте есть статьи по темам, которые не вошли в курс, но относятся к тематике python + сети.
+Их можно найти по [тегу pyneng](/tags/#pyneng).
 
-* [Статьи на xgu.ru](http://xgu.ru/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%90%D0%B2%D1%82%D0%BE%D1%80_%D0%9D%D0%B0%D1%82%D0%B0%D1%88%D0%B0_%D0%A1%D0%B0%D0%BC%D0%BE%D0%B9%D0%BB%D0%B5%D0%BD%D0%BA%D0%BE)
-* [Cisco IOS. Знакомимся ближе. Часть 1](http://nt.ua/aboutcenter/articles/Pages/samoilenko_cisco_ios_2013.aspx)
-* [Джентльменский набор для работы с BGP](http://nt.ua/aboutcenter/articles/Pages/samoilenko_bgp_2013.aspx)
+Это могут быть не только статьи о темах, которые применимы к сетевому оборудованию напрямую.
+По этому тегу находятся также и статьи, в которых какая-то возможность Python просто рассматривается на сетевых примерах.
 
-## Подкасты
+### Подборка ресурсов
 
-Серия подкастов [Поссиелки](http://linkmeup.ru/tag/%D0%BF%D0%BEccie%D0%BB%D0%BA%D0%B8/)
+Так как по теме "Python для сетевых инженеров" достаточно много материалов, курсов и другой информации, я сделала [подборку ресурсов](https://natenka.github.io/pyneng-resources/) в которой перечислены полезные ссылки.
 
-Подкасты LinkMeUp с моим участием:
+### Онлайн курс
 
-* [LinkMeUp. Выпуск № 20. Xgu.ru и курсы по сетевым технологиям](http://linkmeup.ru/blog/148.html)
-* [LinkMeUp. Выпуск № 35. Проект CCIE за год](http://linkmeup.ru/blog/218.html)
-* [LinkMeUp. Выпуск № 50. CCIE за год. История и современность](http://linkmeup.ru/blog/281.html)
-* [LinkMeUp. Выпуск № 51. Сетевики не нужны](http://linkmeup.ru/blog/283.html)
+Я также читаю [онлайн курс](https://natenka.github.io/pyneng-online/) по темам книги.
+
+> В 2017 году проведение курса больше не планируется.
 
