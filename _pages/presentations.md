@@ -7,7 +7,7 @@ comments: true
 share: true
 ---
 
-## Python для сетевых инженеров
+## Презентации тем и отдельных курсов.
 
 [Python для сетевых инженеров](https://natenka.github.io/pyneng/) - это:
 
