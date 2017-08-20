@@ -1,6 +1,6 @@
 ---
 title: "Fluent Python: coroutine"
-date: 2017-20-08
+date: 2017-08-20
 tags:
  - time-management
  - ccie
