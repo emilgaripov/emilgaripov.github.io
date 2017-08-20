@@ -1,5 +1,5 @@
 ---
-title: "Fluent Python: coroutine"
+title: "Time management"
 date: 2017-08-20
 tags:
  - time-management
@@ -10,7 +10,7 @@ category:
  - time-management
 ---
 
-Сопрограммы (coroutine) на основе генератора.
+Time management-как организовать свое время, если у тебя слишком много задач.
 
 Следующий раздел [Fluent Python](http://shop.oreilly.com/product/0636920032519.do) - сопрограммы.
 
