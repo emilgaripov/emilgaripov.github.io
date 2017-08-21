@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /presentations/
 title: Presentations
 comments: true
