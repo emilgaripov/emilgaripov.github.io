@@ -70,7 +70,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal"
   google:
     tracking_id          :
 
@@ -241,6 +241,26 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      sidebar:
+        nav: "links"
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "links"
+  # _links
+  - scope:
+      path: ""
+      type: links
+    values:
+      comments: true
+      sidebar:
+        nav: "links"
+        

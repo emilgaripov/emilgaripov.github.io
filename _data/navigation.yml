@@ -4,11 +4,12 @@ main:
     url: /blog/
   - title: "Presentations"
     url: /presentations/
-  - title: "Workbook"
+  - title: "CCIE Workbook"
     url: /workbook/
   - title: "About"
     url: /about/
-  
+  # - title: "Sample Posts"
+  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   #- title: "Sitemap"
@@ -25,4 +26,4 @@ links:
       - title: 100 Days Of Python
         url: /100daysofpython/
       - title: 100 Days Of Security
-        url: /100daysofsecurity/
+        url: 100daysofsecurity/
