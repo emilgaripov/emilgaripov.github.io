@@ -46,13 +46,13 @@ tags:
 * BBC_Interview_Worksheets
 
 
-## Week 1:
+# Week 1: 18.01 - 24.01  
 
  Сделать:
 - Reading and Listening Unit 1, tasks 1-9
 - Interviews Unit 1, tasks 1-8 
 
-# Day 1- 18.01.2018:
+## Day 1: 18.01
 
  Цели:
 - Reading and Listening Unit 1: Read the article and do tasks 1-3
