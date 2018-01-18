@@ -58,6 +58,13 @@ tags:
 - Reading and Listening Unit 1: Read the article and do tasks 1-3
 - Interviews Unit 1: Do tasks 1-3
 
+## Вопросы по теме:
+
+- Может ли слово "albeit" употребляться в начале предложения
+- Можно ли составить такое предложение: He made a daring act?
+- Можно ли сказать : Thet are right altogether?
+- Можно ли сказать : He wants a particular attitude to himself?
+
 
 
 
