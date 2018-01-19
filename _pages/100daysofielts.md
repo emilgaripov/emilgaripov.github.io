@@ -88,7 +88,8 @@ tags:
 
 ##### Что сделано:
 
-- Reading and Listening Unit 1: Read the article and do tasks 1-3
+- Reading and Listening Unit 1: Read the article and do tasks 1-4
+- Потрачено 2,07 часа
 
 ##### Что не сделано:
  
