@@ -47,13 +47,13 @@ tags:
 
 
 ### Week 1: 18.01 - 24.01  
-
+=========================
  Сделать:
 - Reading and Listening Unit 1, tasks 1-9
 - Interviews Unit 1, tasks 1-8 
 
 #### Day 1: 18.01
-
+-------------------------
  Цели:
 - Reading and Listening Unit 1: Read the article and do tasks 1-3
 - Interviews Unit 1: Do tasks 1-3
