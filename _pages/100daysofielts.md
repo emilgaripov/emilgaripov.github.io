@@ -95,4 +95,20 @@ tags:
 - Interviews Unit 1: Do tasks 1-3
 
 
+#### Day 3: 20.01
+
+ Цели:
+- Reading and Listening Unit 1: Do tasks 5-6
+
+
+##### Что сделано:
+
+- Reading and Listening Unit 1: Прослушал одного участника диалога, остались еще 2-ое
+
+##### Что не сделано:
+ 
+- Reading and Listening Unit 1: Прослушать и проработать остальных участников диалога задания 6
+
+
+
 
