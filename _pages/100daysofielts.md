@@ -123,5 +123,38 @@ tags:
 - Reading and Listening Unit 1: Выполнены задания 6-9
 - Время на выполнение: 1,11 часа
 
+## Week 1: 15.01 - 22.01  
+--------------------------
+ Повторить:
+- Reading and Listening Unit 1, tasks 1-9
 
+Сделать:
+- Reading and Listening Unit 2, tasks 1-9
+
+### Day 1: 15.01
+
+ Цели:
+- Reading and Listening Unit 2: Read the article and do tasks 1-3
+
+#### Вопросы по теме:
+
+- Может ли слово "albeit" употребляться в начале предложения
+- Можно ли составить такое предложение: He made a daring act?
+- Можно ли сказать : Thаt are right altogether?
+- Можно ли сказать : He wants a particular attitude to himself?
+
+#### Что сделано:
+
+- Проработал первый 1 абзаца текста и задание 3.
+- Записал 5 слов с предложениям где они встречаются.Повторял вечером
+- На все ушло 32 минуты.
+
+#### Что не сделано:
+ 
+- Reading and Listening Unit 2: Проработано лишь малая часть текста, не сделано задание 1-3
+
+### Day 2: 16.01
+
+ Цели:
+- Reading and Listening Unit 2: Read the article and do tasks 1-3
 
