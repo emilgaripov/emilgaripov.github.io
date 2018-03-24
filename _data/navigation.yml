@@ -19,11 +19,12 @@ links:
     children:
       - title: To Read
         url: /to-read/
-      - title: ToSee talks
+      - title: To Watch
         url: /todo-talks/
-      - title: 100 Days Of IELTS
-        url: /100daysofielts/
       - title: 100 Days Of Python
         url: /100daysofpython/
-      - title: 100 Days Of Security
-        url: /100daysofsecurity/
+    #  - title: 100 Days Of Security
+    #   url: /100daysofsecurity/
+    #  - title: 100 Days Of IELTS
+    #    url: /100daysofielts/
+        
